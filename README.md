@@ -1,7 +1,9 @@
 # RAC Data Downloader
 ## General Use Guidelines
 
-Before running the script, ensure you meet a few basic requirements to guarantee correct execution. This is especially important if you are not using an Integrated Development Environment (IDE) like Jupyter or VSCode. Python 3.9 or higher must be installed to run the `.py` file successfully. Information on the data categories available for download is provided at the bottom of this README.
+This script is designed to download historical data from the RAC Foundation website, allowing the user to add/remove required datasets by updating `RAC_API_Sheet.csv` sheet.
+
+Before running the program, ensure you meet the basic requirements to ensure its correct execution. If you are not using an IDE like Jupyter or VSCode, then remember to install Python 3.9 or higher first. Run the .py file in your terminal to start the process, assuming you meet the requirements listed below.
 
 ## Requirements
 
