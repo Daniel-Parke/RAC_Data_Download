@@ -1,0 +1,17 @@
+Description,Data Source,API Key
+FuelPumpPrice,RAC,https://api.everviz.com/gsheet?googleSpreadsheetKey=1Bif9pSSRMpRTn3M3j_Y_lKm2HIQmtj7GH4PwtjLYdkg&worksheet=Weekly%20Fuel%20highcharts!A1:ZZ
+WholesaleFuel,RAC,https://api.everviz.com/gsheet?googleSpreadsheetKey=14qYpRqHkQWNYnY1mjQyN12JvgJCSHZlIAoa4riUVk4s&worksheet=A1:ZZ
+MotoringCost,RAC,https://api.everviz.com/gsheet?googleSpreadsheetKey=1SnXWLzBVPHZgp9jxVlVi4CeCu3aYUPW3GuN6hFyvCyc&worksheet=A1:H
+TravelCost,RAC,"https://api.everviz.com/gsheet?googleSpreadsheetKey=1SnXWLzBVPHZgp9jxVlVi4CeCu3aYUPW3GuN6hFyvCyc&worksheet=Cost%20of%20transport,%20highcharts!A1:ZZ"
+EUDieselPrice,RAC,https://api.everviz.com/gsheet?googleSpreadsheetKey=1RmxOgAEXCictbG3khvwkRPICdPg8KWi9QmxHCmoqJjM&worksheet=EUDieselPriceTaxes!A1:ZZ
+EUPetrolPrice,RAC,https://api.everviz.com/gsheet?googleSpreadsheetKey=1RmxOgAEXCictbG3khvwkRPICdPg8KWi9QmxHCmoqJjM&worksheet=EUPetrolPriceTaxes!A1:ZZ
+UKFuelConsumption,RAC,https://api.everviz.com/gsheet?googleSpreadsheetKey=1rjB4gw0xKUYgcxeWuf3Ljbo4l8oawSKm7G2jFCIfO1Y&worksheet=Annual!A1:ZZ
+FuelDutyMonthly,RAC,https://api.everviz.com/gsheet?googleSpreadsheetKey=1WfN-H43r06KzBl8QfvZFQMGjhHz7uBM9Wru2GaKxOdY&worksheet=FD%20Monthly!A1:ZZ
+FuelDutyAnnual,RAC,https://api.everviz.com/gsheet?googleSpreadsheetKey=1WfN-H43r06KzBl8QfvZFQMGjhHz7uBM9Wru2GaKxOdY&worksheet=FD%20Annual!A1:ZZ
+UKVehicleTax,RAC,https://api.everviz.com/gsheet?googleSpreadsheetKey=1WfN-H43r06KzBl8QfvZFQMGjhHz7uBM9Wru2GaKxOdY&worksheet=VED%20Annual!A1:ZZ
+UKPumpPriceTax,RAC,https://api.everviz.com/gsheet?googleSpreadsheetKey=1XX5xYF4HCTAvQRP5lwKuxScJZdgzQ5nr1kx8J4g-BbY&worksheet=DataPPL!A1:ZZ
+UKTotalEVs,RAC,https://api.everviz.com/gsheet?googleSpreadsheetKey=1Aqr3Kg1X8-mwNAzH84DqYbDVQmxp3mvLe8GcUl5PKts&worksheet=BEVs%20vs%20PHEVs%20(estimated)!A1:ZZ
+UKTopTenEVs,RAC,https://api.everviz.com/gsheet?googleSpreadsheetKey=1Aqr3Kg1X8-mwNAzH84DqYbDVQmxp3mvLe8GcUl5PKts&worksheet=Everviz_Top10!A1:ZZ
+OilMarketPrice,RAC,https://api.everviz.com/gsheet?googleSpreadsheetKey=1eY5qs_ESQkuefoaYrAuYgVif9pCldlVqFmCS_GabBlA&worksheet=A1:ZZ
+GreenFleetIndex,RAC,https://api.everviz.com/gsheet?googleSpreadsheetKey=1aM3SI3LCWHOvxZTnZVM8uO_bNNkbUNV3ttArZNcRyZ8&worksheet=GFI!A1:ZZ
+FillingUpCost,RAC,https://api.everviz.com/gsheet?googleSpreadsheetKey=1Eusct95BjNupiLH4CXNenu9ImlJ1YnaNBA6yltqs-YM&worksheet=Sheet1!A1:D
