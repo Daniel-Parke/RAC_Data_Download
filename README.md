@@ -58,3 +58,5 @@ import httpx
 import pandas as pd
 from backoff import on_exception, expo
 ```
+
+![WiseWattage](https://i.imgur.com/Y7oMz2Y.png)
